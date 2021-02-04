@@ -1,5 +1,5 @@
 # polls_django-
-Django Getting started doc project -> https://docs.djangoproject.com/en/3.1/intro/
+
 ## Quick Start
 
 ``` bash
